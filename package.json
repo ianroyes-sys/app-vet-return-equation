@@ -1,0 +1,12 @@
+{
+  "name": "app-vet-return-equation",
+  "version": "1.0.0",
+  "description": "Score whether a business needs a mobile app before you quote it: R = A·F·V ÷ C",
+  "type": "module",
+  "bin": { "app-vet": "bin/app-vet.mjs" },
+  "scripts": {
+    "test": "node --test",
+    "example": "node bin/app-vet.mjs batch examples/prospects.sample.csv"
+  },
+  "engines": { "node": ">=18" }
+}

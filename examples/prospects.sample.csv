@@ -1,0 +1,8 @@
+# Fictional businesses for batch mode. Rates as % or fractions; loops "+"-separated, "none" for zero.
+name,loops,reachable,install,retention,A,F,V,C
+Ironwood Strength (CrossFit box; 220 members),calendar+access+progress,220,80%,55%,,12,2.5,250
+Grace Harbor Church (300 attending),calendar+drop+access,300,45%,50%,,4,4.41,200
+Two Rivers Coffee (3 locations),reorder,4000,12%,40%,,6,0.9,300
+Maple Street Bistro (1 location),reorder,1200,12%,40%,,3,2.2,200
+Keystone Roofing,none,900,8%,15%,,0.3,40,200
+Blue Pine Insurance (quote-only broker),none,400,20%,8%,,0.2,150,200
